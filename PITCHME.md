@@ -46,9 +46,11 @@
  if you want to pull then
  - git pull upstream master
 ---
-**GitHub Desktop (steps):**
- - all the above steps will be executed within the desktop version.
+**Test again:**
+  - Test again
  ---
-
+**Test aain:**
+  - Please test aain
+---
 
 ---
