@@ -46,7 +46,7 @@
  if you want to pull then
  - git pull upstream master
 ---
-**Git Desktop (steps)**
+**GitHub Desktop (steps):**
  - all the above steps will be executed within the desktop version.
  ---
 
