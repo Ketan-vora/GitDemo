@@ -34,8 +34,6 @@ Git (creation of Repo):
  - Create credentials in Github and login.
  - Create Repo directly in Git
 ---
-Test again
----
 Git (steps )
  - Open Git Bash and change the directory to the base location.
  - Create README.md file
@@ -45,4 +43,7 @@ Git (steps )
  - git remote add origin <fqdn> you can get the url from the Git rep (ssh or https)
  - git push -u origin master if you want to pull then
  - git pull upstream master
+---
+GitHub Desktop (steps):
+ - all the above steps will be executed within Desktop version.
 ---
