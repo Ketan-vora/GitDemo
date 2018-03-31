@@ -46,13 +46,13 @@
  if you want to pull then
  - git pull upstream master
 ---
-**Test again:**
-- git push -u origin master
+**GitHub Desktop (steps):**
+- all the above steps will be executed within Desktop version.
 
 ---
 
-**Test aain:**
-- git pull -u origin master
----
-
+**Markdown (Atom / Visual Studio Code):**
+- README.md which was created in the above steps, if needs to be updated, the IDE will be used.
+- Markdown language consists of markdown, scripts (javascript, perl, python), html etc.
+- Most of the IDE's comes with preview option.
 ---
