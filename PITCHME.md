@@ -54,4 +54,5 @@ Git (steps)
   - Once updated the fill can be pushed back to the Git Repo .
   - Fork will be used if you are going to be a contributor to another Git Repo.
   - Fork the Repo and update and do a pull request for the author to approve/reject your updates.
+  ---
   
