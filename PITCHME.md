@@ -1,5 +1,3 @@
-# Git/GitHub & Markdown
----
 Git
    - VCS - version control system
    - to track changes in files / folders
