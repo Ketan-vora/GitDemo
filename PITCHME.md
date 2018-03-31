@@ -20,6 +20,6 @@ Atom
  - IDE to create the Markdown language.
  - it stores in md files 
  - can write markdown language, html, scripts 
- - I call it sibbiling brother of HTML (which is markdown) :-)
+ - I call it sibbiling brother of HTML (which is markup) :-)
 ---
 
