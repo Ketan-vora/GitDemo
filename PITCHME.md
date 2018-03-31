@@ -35,10 +35,6 @@
  - Create credentials in Github and login.
  - Create Repo directly in Git
 ---
-**second timeGit (creation of Repo):**
- - Create credentials in Github and login.
- - Create Repo directly in Git
----
 **Git (steps)**
  - Open Git Bash and change the directory to the base location.
  - Create README.md file
@@ -49,6 +45,9 @@
  - git push -u origin master
  if you want to pull then
  - git pull upstream master
+---
+**Git Desktop (steps)**
+ - all the above steps will be executed within the desktop version.
  ---
 
 
