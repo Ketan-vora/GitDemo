@@ -47,10 +47,12 @@
  - git pull upstream master
 ---
 **Test again:**
-  - Test again
- ---
+- git push -u origin master
+
+---
+
 **Test aain:**
-  - Please test aain
+- git pull -u origin master
 ---
 
 ---
