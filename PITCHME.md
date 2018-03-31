@@ -37,7 +37,7 @@ Git (creation of Repo):
 GitHub Desktop (steps)
  - all the above commands will be executed via Git Desktop(internally)
  ---
-  Git (steps)
+  Git (steps )
  - Open Git Bash and change the directory to the base location.
  - Create README.md file
  - git init (Git will initialize the Repo on the localhost)
