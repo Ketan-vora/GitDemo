@@ -46,6 +46,7 @@
  if you want to pull then
  - git pull upstream master
  ---
- **GitHub Desktop(steps) :**
-  - all the above steps will be executed within Desktop version.
----
+ **Git (creation of Repo):**
+  - Create credentials in Github and login.
+  - Create Repo directly in Git
+ ---
