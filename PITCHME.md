@@ -1,17 +1,25 @@
-# Platform DXC
+# Git/GitHub & Markdown
+---
+Git 
+   - VCS - version control system
+   - to track changes in files / folders
+   - to collaborate in teams
+   - free and open sourc
+---
+GitHub:
+  - website to upload your repositories online
+  - provides backup 
+  - provides visual interface to your repo
+  - makes collaboration easier
+---
+GitHub Desktop:
+  - Used to connect to Git Repo.
+  - GUI interface to run the below commands
+---
+Atom
+ - IDE to create the Markdown language.
+ - it stores in md files 
+ - can write markdown language, html, scripts 
+ - I call it sibbiling brother of HTML (which is markdown) :-)
+---
 
----
-The below URL will describe the twelve step processes:
-<a href ="https://github.dxc.com/pages/Platform-dxc/docs/onboarding/">12 steps process </a>
----
-The following flow depicts the Offering Onboarding onto Platform DXC Ecosystem:
-![Platform DXC Explained](images/Offering_Process_Flow.png)
----
-The following flow depicts the Platform DXC Architecture Flow:
-![Platform DXC Explained](images/AWS_Environment.png)
----
-The following flow depicts the Release Pipeline Environment for the Offering:
-![Platform DXC Explained](images/Slide3.png)
----
-The following flow depicts the Release Pipeline Stages for the Offering:
-![Platform DXC Explained](images/Slide4.png)
