@@ -1,3 +1,5 @@
+# Git/GitHub & Markdown
+---
 Git
    - VCS - version control system
    - to track changes in files / folders
@@ -14,7 +16,6 @@ GitHub:
   - makes collaboration easier
 ---
 Git Bash:
-
   - is a command (Bash) for Windows.
   - used to connect to the Git directly instead of using GitHub.
   - run the commands for Git repo.
@@ -40,14 +41,13 @@ Git (steps)
  - git add README.md
  - git commit - m "my first Git markdown"
  - git remote add origin <fqdn> you can get the url from the Git rep (ssh or https)
- - git push -u origin master
- if you want to pull then
+ - git push -u origin master if you want to pull then
  - git pull upstream master
  ---
- GitHub Desktop (steps)
+GitHub Desktop (steps)
  - all the above commands will be executed via Git Desktop(internally)
   ---
-  Markdown (updates)
+Markdown (updates)
   - README.md which was created initially can be modified using Atom or Visual Studio Code IDEs.
   - Once updated the fill can be pushed back to the Git Repo .
   - Fork will be used if you are going to be a contributor to another Git Repo.
