@@ -47,3 +47,8 @@ Git (steps )
 GitHub Desktop (steps):
  - all the above steps will be executed within Desktop version.
 ---
+Markdown (IDE):
+  - README.md which was created initially can be modified using Atom or Visual Studio Code IDEs.
+  - Once updated the fill can be pushed back to the Git Repo .
+  - Fork will be used if you are going to be a contributor to another Git Repo.
+  - Fork the Repo and update and do a pull request for the author to approve/reject your updates.
