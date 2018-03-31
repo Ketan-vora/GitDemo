@@ -57,3 +57,9 @@
 - Markdown language consists of markdown, scripts (javascript, perl, python), html etc.
 - Most of the IDE's comes with preview option.
 ---
+**Contributions:**
+- Fork the repo which you want to contribute (e.g. GitDemo / PITCHME.md)
+- Contribute the markdown file.
+- Push to the Git Repo.
+- Pull request on the Git Repo and the author will approve/reject the contributions.
+---
