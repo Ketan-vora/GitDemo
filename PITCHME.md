@@ -63,3 +63,8 @@
 - Push to the Git Repo.
 - Pull request on the Git Repo and the author will approve/reject the contributions.
 ---
+**Final Words:**
+- Today we discussed about how we initialize our learning on GitHub.
+- We discussed what is GIT, Github
+- We saw what Fork is, Init, Pull, Push, etc.
+---
