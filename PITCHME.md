@@ -47,11 +47,11 @@
 ---
 **Git (steps)**
  - Open Git Bash on the local folder.
+ - Fork the Git Repository for cloning.
  - git init (Git will initialize the Repo on the local folder)
  - git clone (ssh/https url from the Git Repository)
  - git add README.md or "." (for all files)
  - git commit - m "my first Git markdown"
- - On the Git Repository do a fork, copy url
  - git remote add origin (ssh/https url from Git Repo )
  - git push -u origin master
  -  if you want to pull then
