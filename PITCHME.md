@@ -37,9 +37,8 @@
  - Create Repo directly in Git
 ---
 **Git (steps)**
- - Open Git Bash and change the directory to the base location.
+ - Open Git Bash on the local foldern.
  - Git clone <ssh/https url from the Git Repository>
- - push
  - git init (Git will initialize the Repo on the local folder)
  - git add README.md or "." (for all files)
  - git commit - m "my first Git markdown"
@@ -64,4 +63,4 @@
 - Contribute the markdown file.
 - Push to the Git Repo.
 - Pull request on the Git Repo and the author will approve/reject the contributions.
----
+
