@@ -36,6 +36,15 @@
  - Create credentials in Github and login.
  - Create Repo directly in Git
 ---
+**Generate SSH key:**
+- open the Git Bash.
+- run the command ssh-keygen -t rsa
+- go to the folder /.ssh and open id_rsa.pub
+- copy the public key.
+- login to Git Repo and go to Settings -> SSH & GPS Key
+- new SSH key click the button
+- copy the SSH key
+---
 **Git (steps)**
  - Open Git Bash on the local folder.
  - git init (Git will initialize the Repo on the local folder)
