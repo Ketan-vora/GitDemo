@@ -38,13 +38,15 @@
 ---
 **Git (steps)**
  - Open Git Bash and change the directory to the base location.
- - Create README.md file
- - git init (Git will initialize the Repo on the localhost)
- - git add README.md
+ - Git clone <ssh/https url from the Git Repository>
+ - push
+ - git init (Git will initialize the Repo on the local folder)
+ - git add README.md or "." (for all files)
  - git commit - m "my first Git markdown"
- - git remote add origin <fqdn> you can get the url from the Git rep (ssh or https)
+ - On the Git Repository do a fork.
+ - git remote add origin <ssh/https url from the Git Repository>
  - git push -u origin master
- if you want to pull then
+ -  if you want to pull then
  - git pull upstream master
 ---
 **GitHub Desktop (steps):**
@@ -62,10 +64,4 @@
 - Contribute the markdown file.
 - Push to the Git Repo.
 - Pull request on the Git Repo and the author will approve/reject the contributions.
----
-**Final Words:**
-- Today we discussed about how we initialize our learning on GitHub.
-- We discussed what is GIT, Github
-- We saw what Fork is, Init, Pull, Push, etc.
-- test
 ---
