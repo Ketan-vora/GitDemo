@@ -37,6 +37,7 @@
  - Create Repo directly in Git
 ---
 **Generate SSH key:**
+- If necessary, download & install Git Bash onto your desktop
 - open the Git Bash.
 - run the command ssh-keygen -t rsa
 - go to the folder /.ssh and open id_rsa.pub
