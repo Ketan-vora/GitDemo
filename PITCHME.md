@@ -38,7 +38,7 @@
 ---
 **Generate SSH key:**
 - If necessary, download & install Git Bash onto your desktop
-- open the Git Bash.
+- Open Git Bash on the local folder (/.ssh).
 - run the command ssh-keygen -t rsa
 - go to the folder /.ssh and open id_rsa.pub
 - copy the public key.
@@ -48,13 +48,18 @@
 ---
 **Git (steps)**
  - Open Git Bash on the local folder.
- - Fork the Git Repository for cloning.
+ - fork the Git Repository (master branch) for cloning.
  - git init (Git will initialize the Repo on the local folder)
- - git clone (ssh/https url from the Git Repository)
- - git add README.md or "." (for all files)
+      - You will see a message "reinitialized existing Git repository in /pathname/.ssh/.git/"
+ - obtain the ssh/https url from the git forked repository 
+      - From the GitHub webGUI,Click 'Clone or Download' (green button) and copy the Git URL.
+ - git clone {ssh/https url from the Git Repository] -you only need to do this once.
+      - After this is complete, look in the local pathname/.ssh folder. The git repository should be cloned locally 
+ - git add README.md or "." (for all files) - this stages the file(s)
  - git commit - m "my first Git markdown"
- - git remote add origin (ssh/https url from Git Repo )
+ - git remote add origin {ssh/https url from Git Repository}
  - git push -u origin master
+      - The file that you uploaded should now be located in your repository branch on Github
  -  if you want to pull then
  - git pull upstream master
 ---
