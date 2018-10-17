@@ -1,0 +1,15 @@
+# ---
+# SLAM_TASKNAME:  Hello World
+# SLAM_Q: play
+# ---
+#
+---
+
+- hosts: localhost
+  connection: local
+  gather_facts: no
+  tasks:
+
+    - name: Output a Message
+      debug:
+        msg: "Hello World"
