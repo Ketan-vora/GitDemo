@@ -55,6 +55,7 @@
       - From the GitHub webGUI,Click 'Clone or Download' (green button) and copy the Git URL.
  - git clone {ssh/https url from the Git Repository] -you only need to do this once.
  ---
+ **Git (steps continued)**
  - After this is complete, look in the local pathname/.ssh folder. The git repository should be cloned locally 
  - git add README.md or "." (for all files) - this stages the file(s)
  - git commit - m "my first Git markdown"
@@ -63,6 +64,13 @@
       - The file that you uploaded should now be located in your repository branch on Github
  -  if you want to pull then
  - git pull upstream master
+---
+**Remove folders recursively**
+In the command-line, navigate to your local repository.
+Ensure you are in the default branch: git checkout master.
+The rm -r command will recursively remove your folder: git rm -r folder-name.
+Commit the change: ...
+Push the change to your remote repository:
 ---
 **Markdown (Atom / Visual Studio Code):**
 - README.md which was created in the above steps, if needs to be updated, the IDE will be used.
