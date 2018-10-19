@@ -66,11 +66,11 @@
  - git pull upstream master
 ---
 **Remove folders recursively**
-In the command-line, navigate to your local repository.
-Ensure you are in the default branch: git checkout master.
-The rm -r command will recursively remove your folder: git rm -r folder-name.
-Commit the change: ...
-Push the change to your remote repository:
+- In the command-line, navigate to your local repository.
+- Ensure you are in the default branch: git checkout master.
+- The rm -r command will recursively remove your folder: git rm -r folder-name.
+- Commit the change
+- Push the change to your remote repository:
 ---
 **Markdown (Atom / Visual Studio Code):**
 - README.md which was created in the above steps, if needs to be updated, the IDE will be used.
