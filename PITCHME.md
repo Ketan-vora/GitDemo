@@ -61,8 +61,7 @@
  - git commit - m "my first Git markdown"
  - git remote add origin {ssh/https url from Git Repository}
  - git push -u origin master
-      - The file that you uploaded should now be located in your repository branch on Github
- -  if you want to pull then
+ -  pull request
  - git pull upstream master
 ---
 **Remove folders recursively**
