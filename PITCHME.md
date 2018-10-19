@@ -63,7 +63,7 @@
  - git push -u origin master
  -  pull request
  - git pull upstream master
- ---
+---
 **Remove folders recursively**
 - In the command-line, navigate to your local repository.
 - Ensure you are in the default branch: git checkout master.
