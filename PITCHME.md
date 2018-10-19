@@ -54,7 +54,7 @@
  - obtain the ssh/https url from the git forked repository 
       - From the GitHub webGUI,Click 'Clone or Download' (green button) and copy the Git URL.
  - git clone {ssh/https url from the Git Repository] -you only need to do this once.
- ---
+---
  **Git (steps continued)**
  - After this is complete, look in the local pathname/.ssh folder. The git repository should be cloned locally 
  - git add README.md or "." (for all files) - this stages the file(s)
@@ -63,7 +63,7 @@
  - git push -u origin master
  -  pull request
  - git pull upstream master
----
+ ---
 **Remove folders recursively**
 - In the command-line, navigate to your local repository.
 - Ensure you are in the default branch: git checkout master.
