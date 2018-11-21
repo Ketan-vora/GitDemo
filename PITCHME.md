@@ -64,7 +64,7 @@
  -  pull request
  - git pull upstream master
 ---
-**Git Error**
+**Git Error(Solution)**
 - git pull --allow-unrelated-histories origin master
 - git push -u origin master
 ---
