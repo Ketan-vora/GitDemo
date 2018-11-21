@@ -65,8 +65,8 @@
  - git pull upstream master
 ---
 **Git Error**
-git pull --allow-unrelated-histories origin master
-git push -u origin master
+- git pull --allow-unrelated-histories origin master
+- git push -u origin master
 ---
 **Remove folders recursively**
 - In the command-line, navigate to your local repository.
