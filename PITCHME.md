@@ -49,24 +49,24 @@
 **Git (steps)**
  - Open Git Bash on the local folder.
  - fork the Git Repository (master branch) for cloning.
- - git init (Git will initialize the Repo on the local folder)
+ - @color[orange](git init) (Git will initialize the Repo on the local folder)
       - You will see a message "reinitialized existing Git repository in /pathname/.ssh/.git/"
  - obtain the ssh/https url from the git forked repository 
       - From the GitHub webGUI,Click 'Clone or Download' (green button) and copy the Git URL.
- - git clone {ssh/https url from the Git Repository] -you only need to do this once.
+ - @color[orange](git clone ssh/https url) from the Git Repository] -you only need to do this once.
 ---
  **Git (steps continued)**
  - After this is complete, look in the local pathname/.ssh folder. The git repository should be cloned locally 
- - git add README.md or "." (for all files) - this stages the file(s)
- - git commit - m "my first Git markdown"
- - git remote add origin {ssh/https url from Git Repository}
- - git push -u origin master
+ - @color[orange](git add README.md or ".") (for all files) - this stages the file(s)
+ - @color[orange](git commit - m "my first Git markdown")
+ - @color[orange](git remote add origin ssh/https) url from Git Repository
+ - @color[orange](git push -u origin master)
  -  pull request
- - git pull upstream master
+ - @color[orange](git pull upstream master)
 ---
 **Git Error(Solution)**
-- git pull --allow-unrelated-histories origin master
-- git push -u origin master
+- @color[orange](git pull --allow-unrelated-histories origin master)
+- @color[orange](git push -u origin master)
 ---
 **Git file/folder(Remove) not in local folder**
 - Ensure you are in the default branch:
@@ -80,8 +80,10 @@
 ---
 **Remove folders recursively**
 - In the command-line, navigate to your local repository.
-- Ensure you are in the default branch: git checkout master.
-- The rm -r command will recursively remove your folder: git rm -r folder-name.
+- Ensure you are in the default branch: 
+- @color[orange](git checkout master)
+- The rm -r command will recursively remove your folder: 
+- @color[orange](git rm -r folder-name)
 - Commit the change
 - Push the change to your remote repository:
 ---
@@ -90,9 +92,10 @@
 - Markdown language consists of markdown, scripts (javascript, perl, python), html etc.
 - Most of the IDE's comes with preview option.
 ---
-**Contributions:**
+**@color[blue](Contributions:)**
 - Fork the repo which you want to contribute (e.g. GitDemo / PITCHME.md)
 - Contribute the markdown file.
 - Push to the Git Repo.
 - Pull request on the Git Repo and the author will approve/reject the contribution.
+- Appreicate, if you share your knowledge as part of this contribution.
 
