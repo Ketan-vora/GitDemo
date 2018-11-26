@@ -1,6 +1,14 @@
 @box[bg-black text-white rounded demo-box-pad](Git/GitHub & Markdown) 
 @quote[write anywhere, view anywhere]
 ---
+@ul
+
+- Plain text list item
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item
+
+@ulend
+---
 **@color[green](Git:)**
    - VCS - version control system
    - to track changes in files / folders
