@@ -70,13 +70,13 @@
 ---
 **Git file/folder(Remove) not in local folder**
 - Ensure you are in the default branch:
-- git checkout master
+-- git checkout master
 - The rm -r command will recursively remove your folder:
-- git rm -r folder-name or git rm filename1...
+-- git rm -r folder-name or git rm filename1...
 - Commit the change:
-- git commit -m "Remove duplicated directory"
+-- git commit -m "Remove duplicated directory"
 - Push the change to your remote repository:
-- git push origin master
+-- git push origin master
 ---
 **Remove folders recursively**
 - In the command-line, navigate to your local repository.
