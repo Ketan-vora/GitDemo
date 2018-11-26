@@ -2,7 +2,7 @@
 (write anywhere, view anywhere)
 ---
 **Git:**
-   - VCS - version control system
+   - ### @color[orange](VCS - version control system)
    - to track changes in files / folders
    - to collaborate in teams
    - free and open source.
