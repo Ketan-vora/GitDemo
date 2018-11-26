@@ -1,14 +1,6 @@
 @box[bg-black text-white rounded demo-box-pad](Git/GitHub & Markdown) 
 @quote[write anywhere, view anywhere]
 ---
-@ul
-
-- Plain text list item
-- Rich **markdown** list *item*
-- Link [within](https://gitpitch.com) list item
-
-@ulend
----
 **@color[green](Git:)**
    - VCS - version control system
    - to track changes in files / folders
@@ -100,7 +92,10 @@
 - Most of the IDE's comes with preview option.
 ---
 **@color[green](Contributions:)**
-- Fork the repo which you want to contribute (e.g. GitDemo / PITCHME.md)
-- Contribute the markdown file.
-- Push to the Git Repo.
-- Pull request on the Git Repo and the author will approve/reject the contribution.
+@ul
+
+- Click the below link to provide your contribution.
+- Open the PITCHME.md and provide your updates and do the pull request.
+- Link [within](https://github.com/rbalaji2/GitDemo)
+
+@ulend
