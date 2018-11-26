@@ -97,6 +97,6 @@
 
 - Click the below link to provide your contribution.
 - Open the PITCHME.md and provide your updates and do the pull request.
-- Link [Gitpitch URL](https://github.com/rbalaji2/GitDemo) Slide deck
+- Click [PITCHME.md](https://github.com/rbalaji2/GitDemo) Slide deck
 
 @ulend
