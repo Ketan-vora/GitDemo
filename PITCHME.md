@@ -10,42 +10,42 @@
      1) Public (free open source)<BR>
      2) Private (paid)
 ---
-**GitHub:**
+**@color[green](GitHub:)**
   - website to upload your repositories online
   - provides backup
   - provides visual interface to your repo
   - makes collaboration easier
 ---
-**Git Bash:**
+**@color[green](Git Bash:)**
   - is a command (Bash) for Windows.
   - used to connect to the Git directly instead of using GitHub.
   - run the commands for Git repo.
 ---
-**GitHub Desktop:**
+**@color[green](GitHub Desktop:)**
   - Used to connect to Git Repo.
   - GUI interface to run the below commands
 ---
-**Atom:**
+**@color[green](Atom:)**
  - IDE to create the Markdown language.
  - it stores in md files
  - can write markdown language, html, scripts
  - I call it sibling brother of HTML (which is markup)
 ---
-**Git (creation of Repo):**
+**@color[green](Git - creation of Repo):**
  - Create credentials in Github and login.
  - Create Repo directly in Git
 ---
-**Generate SSH key:**
+**@color[green](Generate SSH key:)**
 - If necessary, download & install Git Bash onto your desktop
 - Open Git Bash on the local folder (/.ssh).
-- run the command ssh-keygen -t rsa
+- run the command @color[orange](ssh-keygen -t rsa)
 - go to the folder /.ssh and open id_rsa.pub
 - copy the public key.
 - login to Git Repo and go to Settings -> SSH & GPS Key
 - new SSH key click the button
 - copy the SSH key
 ---
-**Git (steps)**
+**@color[green](Git steps)**
  - Open Git Bash on the local folder.
  - fork the Git Repository (master branch) for cloning.
  - @color[orange](git init) (Git will initialize the Repo on the local folder)
@@ -54,7 +54,7 @@
       - From the GitHub webGUI,Click 'Clone or Download' (green button) and copy the Git URL.
  - @color[orange](git clone ssh/https url) from the Git Repository] -you only need to do this once.
 ---
- **Git (steps continued)**
+ **@color[green](Git steps continued)**
  - After this is complete, look in the local pathname/.ssh folder. The git repository should be cloned locally 
  - @color[orange](git add README.md or ".") (for all files) - this stages the file(s)
  - @color[orange](git commit - m "my first Git markdown")
@@ -63,11 +63,11 @@
  -  pull request
  - @color[orange](git pull upstream master)
 ---
-**Git Error(Solution)**
+**@color[green](Git Erro r- Solution)**
 - @color[orange](git pull --allow-unrelated-histories origin master)
 - @color[orange](git push -u origin master)
 ---
-**Git file/folder(Remove) not in local folder**
+**@color[green](Github file/folder removed not in local folder)**
 - Ensure you are in the default branch:
 - @color[orange](git checkout master)
 - The rm -r command will recursively remove your folder:
@@ -77,7 +77,7 @@
 - Push the change to your remote repository:
 - @color[orange](git push origin master)
 ---
-**Remove folders recursively**
+**@color[green](Remove folders recursively)**
 - In the command-line, navigate to your local repository.
 - Ensure you are in the default branch: 
 - @color[orange](git checkout master)
@@ -86,12 +86,12 @@
 - Commit the change
 - Push the change to your remote repository:
 ---
-**Markdown (Atom / Visual Studio Code):**
+**@color[green](Markdown - Atom &/or Visual Studio Code):**
 - README.md which was created in the above steps, if needs to be updated, the IDE will be used.
 - Markdown language consists of markdown, scripts (javascript, perl, python), html etc.
 - Most of the IDE's comes with preview option.
 ---
-**@color[blue](Contributions:)**
+**@color[green](Contributions:)**
 - Fork the repo which you want to contribute (e.g. GitDemo / PITCHME.md)
 - Contribute the markdown file.
 - Push to the Git Repo.
