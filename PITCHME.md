@@ -1,5 +1,4 @@
-#@box[bg-orange text-white rounded demo-box-pad](Git/GitHub & Markdown
-(write anywhere, view anywhere))
+@box[bg-orange text-white rounded demo-box-pad](Git/GitHub & Markdown write anywhere, view anywhere)
 ---
 **@color[green](Git:)**
    - VCS - version control system
