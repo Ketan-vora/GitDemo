@@ -1,7 +1,7 @@
 # @color[blue](Git/GitHub & Markdown)
 (write anywhere, view anywhere)
 ---
-**@color([green](Git:)**
+**@color[green](Git:)**
    - VCS - version control system
    - to track changes in files / folders
    - to collaborate in teams
