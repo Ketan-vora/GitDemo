@@ -1,4 +1,4 @@
-#@box[bg-orange text-white rounded demo-box-pad]( @color[blue](Git/GitHub & Markdown)
+#@box[bg-orange text-white rounded demo-box-pad](Git/GitHub & Markdown
 (write anywhere, view anywhere))
 ---
 **@color[green](Git:)**
