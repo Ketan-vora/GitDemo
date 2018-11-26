@@ -1,5 +1,7 @@
+@ul
 @box[bg-black text-white rounded demo-box-pad](Git/GitHub & Markdown) 
 @quote[write anywhere, view anywhere]
+@ulend
 ---
 **@color[green](Git:)**
    - VCS - version control system
