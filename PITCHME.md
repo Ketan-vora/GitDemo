@@ -1,7 +1,7 @@
 # @color[blue](Git/GitHub & Markdown)
 (write anywhere, view anywhere)
 ---
-**Git:**
+**@color([green](Git:)**
    - VCS - version control system
    - to track changes in files / folders
    - to collaborate in teams
@@ -17,7 +17,6 @@
   - makes collaboration easier
 ---
 **Git Bash:**
-
   - is a command (Bash) for Windows.
   - used to connect to the Git directly instead of using GitHub.
   - run the commands for Git repo.
@@ -97,5 +96,3 @@
 - Contribute the markdown file.
 - Push to the Git Repo.
 - Pull request on the Git Repo and the author will approve/reject the contribution.
-- Appreicate, if you share your knowledge as part of this contribution.
-
