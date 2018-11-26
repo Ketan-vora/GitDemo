@@ -63,7 +63,7 @@
  -  pull request
  - @color[orange](git pull upstream master)
 ---
-**@color[green](Git Erro r- Solution)**
+**@color[green](Git Error - Solution)**
 - @color[orange](git pull --allow-unrelated-histories origin master)
 - @color[orange](git push -u origin master)
 ---
