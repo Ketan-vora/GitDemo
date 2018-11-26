@@ -1,4 +1,4 @@
-# ### @color[blue](Git/GitHub & Markdown)
+# @color[blue](Git/GitHub & Markdown)
 (write anywhere, view anywhere)
 ---
 **Git:**
@@ -70,13 +70,13 @@
 ---
 **Git file/folder(Remove) not in local folder**
 - Ensure you are in the default branch:
-- ### @color[orange](git checkout master)
+- @color[orange](git checkout master)
 - The rm -r command will recursively remove your folder:
-- ### @color[orange](git rm -r folder-name or git rm filename1...)
+- @color[orange](git rm -r folder-name or git rm filename1...)
 - Commit the change:
-- ### @color[orange](git commit -m "Remove duplicated directory")
+- @color[orange](git commit -m "Remove duplicated directory")
 - Push the change to your remote repository:
-- ### @color[orange](git push origin master)
+- @color[orange](git push origin master)
 ---
 **Remove folders recursively**
 - In the command-line, navigate to your local repository.
