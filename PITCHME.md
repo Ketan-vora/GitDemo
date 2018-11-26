@@ -96,6 +96,6 @@
 
 - Click the below link to provide your contribution.
 - Open the PITCHME.md and provide your updates and do the pull request.
-- Link [within](https://github.com/rbalaji2/GitDemo)
+- Link [within](https://github.com/rbalaji2/GitDemo) Slide deck
 
 @ulend
