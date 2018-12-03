@@ -67,7 +67,7 @@
 **@color[green](Git Error - Solution)**
 - If there is a difference between local and Github
 - @color[orange](Update all changes: git add -u)
-- @color[orange](Specific files: git add <filename>)
+- @color[orange](Specific files: git add filename)
 - @color[orange](git pull --allow-unrelated-histories origin master)
 - @color[orange](git push -u origin master)
 ---
