@@ -110,7 +110,7 @@
 - param 3  Filename that you want to push to the Git Repo after updates.
 - param 4  Repo to which the file needs to be pushed e.g. Platform-DXC/Offering-Onboarding
 - param 5  comments for the commit step.    
-- e.g. ./RunGit.sh init rbalaji9 POM.docx Platform-DXC\Offering-onboarding "changed the security section" 
+- e.g. ./RunGit.sh init rbalaji9 test.docx Repo_Name "updated test.docx" 
 @ulend
 ---   
 **@color[green](Contributions:)**
