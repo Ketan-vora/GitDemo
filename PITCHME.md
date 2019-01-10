@@ -98,7 +98,7 @@
 @ul
 **@color[green](Automation Github - First step):**
 - RunGit.sh is the initial shell script written to automate the Git Repo pull & push files.
-- Pre-requisite is to have Git Bash for windows to run the Shell scripts.
+- Pre-requisite is to have Click [Git Bash](https://git-scm.com/download/win) for windows to run the Shell scripts.
 - Click [RunGit.md](https://github.com/rbalaji2/GitDemo) to download the file.
 - Once downloaded to the folder where you want to initialize the Git Repo , need to pass five parameters.
 @ulend
