@@ -95,12 +95,15 @@
 - Markdown language consists of markdown, scripts (javascript, perl, python), html etc.
 - Most of the IDE's comes with preview option.
 ---
+@ul
 **@color[green](Automation Github - First step):**
 - RunGit.sh is the initial shell script written to automate the Git Repo pull & push files.
 - Pre-requisite is to have Git Bash for windows to run the Shell scripts.
 - Click [RunGit.md](https://github.com/rbalaji2/GitDemo) to download the file.
 - Once downloaded to the folder where you want to initialize the Git Repo , need to pass five parameters.
+@ulend
 ---
+@ul
 **@color[green](Automation Github - First step     Contd/-..):**
 - param 1     init (for intializing the Git Repo first time) OR push (for pushing the files to the Git Repo after updates)
 - param 2  shortid on the Git Repo for the individual.
@@ -108,12 +111,13 @@
 - param 4  Repo to which the file needs to be pushed e.g. Platform-DXC/Offering-Onboarding
 - param 5  comments for the commit step.    
 - e.g. ./RunGit.sh init rbalaji9 test.docx Repo_Name "updated test.docx" 
+@ulend
 ---   
 **@color[green](Contributions:)**
-@ul
+
 
 - Click the below link to provide your contribution.
 - Open the PITCHME.md and provide your updates and do the pull request.
 - Click [PITCHME.md](https://github.com/rbalaji2/GitDemo) Slide deck
 
-@ulend
+
