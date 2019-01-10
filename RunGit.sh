@@ -4,7 +4,7 @@
 GITHUB1="github.com"
 
 #from GIT bash run the below command , below is just an example change as per your requirements.
-# ./test.sh push rbalaji5 POM.docx Platform-DXC\Offering-onboarding changed the security 
+# ./RunGit.sh init rbalaji9 test.docx Repo_Name "updated test.docx"
 
 
 #expected value init for initalization else any other value
