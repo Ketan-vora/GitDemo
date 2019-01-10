@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #variables defined and assigned.
-GITHUB1="github.com"
+GITHUB1="github.dxc.com"
 
 #from GIT bash run the below command , below is just an example change as per your requirements.
 # ./test.sh push rbalaji5 POM.docx Platform-DXC\Offering-onboarding changed the security 
