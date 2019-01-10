@@ -11,6 +11,7 @@ echo "First arg is to determine for the initializing the git repo for the first 
 echo "Second arg is for the shortid: $2"
 echo "Third arg is for file name:  $3"
 echo "Github repo : ${GITHUB}"
+echo "commit comment: $5"
 
 
 if [ "$1" == "init" ] 
@@ -24,6 +25,6 @@ else
 	#push the file 
 	git remote add origin git@github.com:"$2"/${GITHUB}.git
 	git add -f "$3"
-	git commit -m "Initial commit from automation via shell script"
+	git commit -m "$5"
 	git push origin master
 fi
