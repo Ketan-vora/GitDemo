@@ -100,8 +100,7 @@
 - Pre-requisite is to have Git Bash for windows to run the Shell scripts.
 - Click [RunGit.md](https://github.com/rbalaji2/GitDemo) to download the file.
 - Once downloaded to the folder where you want to initialize the Git Repo , need to pass five parameters.
-- param 1     init (for intializing the Git Repo first time) 
--             push (for pushing the files to the Git Repo after updates)
+- param 1     init (for intializing the Git Repo first time) OR push (for pushing the files to the Git Repo after updates)
 --
 **@color[green](Automation Github - First step     Contd/-..):**
 - param 2  shortid on the Git Repo for the individual.
