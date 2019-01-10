@@ -1,30 +1,32 @@
 #!/bin/sh
 
 #variables defined and assigned.
-COLQUESTION="\u001b[36m"
-COLINFO="\u001b[37m"
-COLLOGS="\u001b[35m"
-COLRESET="\u001b[m"
+GITHUB1="github.com"
 
-#expected value is init.
+#from GIT bash run the below command , below is just an example change as per your requirements.
+# ./test.sh push rbalaji5 POM.docx Platform-DXC\Offering-onboarding changed the security 
+
+
+#expected value init for initalization else any other value
 echo "First arg is to determine for the initializing the git repo for the first time or pushing the file : $1"
-echo "Second arg is for the shortid: $2"
-echo "Third arg is for file name:  $3"
-echo "Github repo : ${GITHUB}"
-echo "commit comment: $5"
+echo "Second arg is for the shortid:   $2"
+echo "Third arg is for file name to be pushed : $3"
+echo "Github repo :  $4"
+echo "commit comment:  $4"
+
 
 
 if [ "$1" == "init" ] 
 then
 	#pull the folder files from Github.
 	git init
-	 git clone git@github.com:"$3"/${GITHUB}.git
-	echo "inside if loop : ${COLRESET}"
+	git clone git@"${GITHUB1}":"$2"/"$4".git
+	echo "inside if loop :  $2"
 else
-	echo "inside else loop: ${COLRESET}"
+	echo "inside else loop: $2"
 	#push the file 
-	git remote add origin git@github.com:"$2"/${GITHUB}.git
+	git remote add origin git@"${GITHUB1}":"$2"/"$4".git
 	git add -f "$3"
-	git commit -m "$5"
+	git commit -m "$4"
 	git push origin master
 fi
