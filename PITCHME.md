@@ -108,7 +108,7 @@
 - param 1     init (for intializing the Git Repo first time) OR push (for pushing the files to the Git Repo after updates)
 - param 2  shortid on the Git Repo for the individual.
 - param 3  Filename that you want to push to the Git Repo after updates.
-- param 4  Repo to which the file needs to be pushed e.g. Platform-DXC/Offering-Onboarding
+- param 4  Repo to which the file needs to be pushed e.g. RepoName like Test.git
 - param 5  comments for the commit step.    
 - e.g. ./RunGit.sh init rbalaji9 test.docx Repo_Name "updated test.docx" 
 @ulend
