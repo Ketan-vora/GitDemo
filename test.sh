@@ -21,9 +21,9 @@ then
 	#pull the Repo files from Github.
 	git init
 	git clone git@"${GITHUB1}":"$2"/"$4".git
-	echo "inside if loop :  $2"
+#	echo "inside if loop :  $2"
 else
-	echo "inside else loop: $2"
+#	echo "inside else loop: $2"
 	#push the file 
 	git remote add origin git@"${GITHUB1}":"$2"/"$4".git
 	git add -f "$3"
